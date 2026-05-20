@@ -11,6 +11,8 @@
 <p>Refer to the below ERD diagram for a visual representation of the relationships between these</p>
 <img src="ERD.png" alt="Alt text" width="500">
 
-<p>Top 5 highest_donation</p>
+<p>Top 5 highest_donation result:</p>
+<img src="highest_donation.png">
 
-<p>Top regional impact</p>
+<p>Top regional impact result: </p>
+<img src="top_regional_impact.png">
