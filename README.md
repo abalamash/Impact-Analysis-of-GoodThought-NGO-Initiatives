@@ -18,4 +18,4 @@
 <p>Top regional impact result: </p>
 <img src="images/top_regional_impact.png">
 
-<p><h3>Note:</h3>The code is in code Folder, and tables are csv file</p>
+<p><h3>Note:</h3>The code is in code Folder, and tables are csv files</p>
