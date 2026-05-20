@@ -1,5 +1,5 @@
 # Impact-Analysis-of-GoodThought-NGO-Initiatives
-<img src="ngo_project_image.jpg" alt="Alt text" width="500">
+<img src="images/ngo_project_image.jpg" alt="Alt text" width="500">
 <p>GoodThought NGO has been a catalyst for positive change, focusing its efforts on education, healthcare, and sustainable development to make a significant difference in communities worldwide. With this mission, GoodThought has orchestrated an array of assignments aimed at uplifting underprivileged populations and fostering long-term growth.</p>
 <p></p>
 <p>This project offers a hands-on opportunity to explore how data-driven insights can direct and enhance these humanitarian efforts. In this project, you'll engage with the GoodThought PostgreSQL database, which encapsulates detailed records of assignments, funding, impacts, and donor activities from 2010 to 2023. This comprehensive dataset includes:</p>
@@ -9,10 +9,10 @@
   <li><b>Donors:</b> Information on individuals and organizations that fund GoodThought’s projects, including donor types.</li>
 </ul>
 <p>Refer to the below ERD diagram for a visual representation of the relationships between these</p>
-<img src="ERD.png" alt="Alt text" width="500">
+<img src="images/ERD.png" alt="Alt text" width="500">
 
 <p>Top 5 highest_donation result:</p>
-<img src="highest_donation.png">
+<img src="images/highest_donation.png">
 
 <p>Top regional impact result: </p>
-<img src="top_regional_impact.png">
+<img src="images/top_regional_impact.png">
