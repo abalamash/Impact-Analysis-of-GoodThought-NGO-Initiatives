@@ -3,7 +3,7 @@
 <img src="images/ngo_project_image.jpg" alt="Alt text" width="500">
 <p>GoodThought NGO has been a catalyst for positive change, focusing its efforts on education, healthcare, and sustainable development to make a significant difference in communities worldwide. With this mission, GoodThought has orchestrated an array of assignments aimed at uplifting underprivileged populations and fostering long-term growth.</p>
 <p></p>
-<p>This project offers a hands-on opportunity to explore how data-driven insights can direct and enhance these humanitarian efforts. In this project, you'll engage with the GoodThought PostgreSQL database, which encapsulates detailed records of assignments, funding, impacts, and donor activities from 2010 to 2023. This comprehensive dataset includes:</p>
+<p>This project offers a hands-on opportunity to explore how data-driven insights can direct and enhance these humanitarian efforts. In this project, we'll engage with the GoodThought PostgreSQL database, which encapsulates detailed records of assignments, funding, impacts, and donor activities from 2010 to 2023. This comprehensive dataset includes:</p>
 <ul>
   <li><b>Assignments:</b> Details about each project, including its name, duration (start and end dates), budget, geographical region, and the impact score.</li>
   <li><b>Donations:</b> Records of financial contributions, linked to specific donors and assignments, highlighting how financial support is allocated and utilized.</li>
