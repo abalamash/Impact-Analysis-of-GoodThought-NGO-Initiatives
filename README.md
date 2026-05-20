@@ -1,4 +1,5 @@
-# Impact-Analysis-of-GoodThought-NGO-Initiatives
+# Impact-Analysis-of-GoodThought-NGO-Initiatives 
+<h3>Datacamp</h3> 
 <img src="images/ngo_project_image.jpg" alt="Alt text" width="500">
 <p>GoodThought NGO has been a catalyst for positive change, focusing its efforts on education, healthcare, and sustainable development to make a significant difference in communities worldwide. With this mission, GoodThought has orchestrated an array of assignments aimed at uplifting underprivileged populations and fostering long-term growth.</p>
 <p></p>
